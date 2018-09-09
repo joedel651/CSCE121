@@ -1,1 +1,0 @@
-introduction to programming homework assignments. This course covers basic programming all the way up to classes and pointers. 
